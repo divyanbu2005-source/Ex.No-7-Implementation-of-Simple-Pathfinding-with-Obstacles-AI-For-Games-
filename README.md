@@ -1,4 +1,4 @@
-# Ex.No: 7  Implementation of Simple Pathfinding with Obstacles
+<img width="1128" height="776" alt="image" src="https://github.com/user-attachments/assets/63e94a66-f19e-4a01-a5f2-4621bd81a8da" /># Ex.No: 7  Implementation of Simple Pathfinding with Obstacles
 ### DATE:                                                                            
 ### REGISTER NUMBER : 2305002007
 ### AIM: 
@@ -85,8 +85,7 @@ transform.position = startPos + new Vector3(movement, 0, 0);
 ### Output:
 
 
-
-![Uploading image.png…]()
+<img width="1128" height="776" alt="image" src="https://github.com/user-attachments/assets/8596f5c2-a129-46b0-b18d-2b2bc720c153" />
 
 
 
