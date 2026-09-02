@@ -1,4 +1,4 @@
-<img width="1128" height="776" alt="image" src="https://github.com/user-attachments/assets/63e94a66-f19e-4a01-a5f2-4621bd81a8da" /># Ex.No: 7  Implementation of Simple Pathfinding with Obstacles
+
 ### DATE:                                                                            
 ### REGISTER NUMBER : 2305002007
 ### AIM: 
